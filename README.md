@@ -13,11 +13,12 @@ Installation guide
         Use
         pip install opencv-python in anaconda prompt
       •Imutils, Scipy, Playsound, scikit-learn, scikit-image
-        Use pip install imutils 
-        pip install scipy 
-        pip install playsound 
-        pip install scikit-learn
-        pip install scikit-image in anaconda prompt.
+        Use: 
+        o pip install imutils 
+        o pip install scipy 
+        o pip install playsound 
+        o pip install scikit-learn
+        o pip install scikit-image in anaconda prompt.
 
 2.Alcohol senser, Accident detection and notification.
 
