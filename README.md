@@ -7,9 +7,11 @@ Installation guide
   Libraries:
       •dlib  
         Use the link     https://pypi.org/simple/dlib/
-        and install   dlib-19.8.1-cp36-cp36m-win_amd64
+        and 
+        install   dlib-19.8.1-cp36-cp36m-win_amd64
       •Opencv
-        Use pip install opencv-python in anaconda prompt
+        Use
+        pip install opencv-python in anaconda prompt
       •Imutils, Scipy, Playsound, scikit-learn, scikit-image
         Use pip install imutils 
         pip install scipy 
