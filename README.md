@@ -4,14 +4,16 @@ Installation guide
 1.Sleep Detection.
 
     Anaconda( python 3.6 or above)
-  Libraries:
-dlib: Use the link https://pypi.org/simple/dlib/ and 
+Libraries:
+dlib:
+Use the link https://pypi.org/simple/dlib/ and 
         
         o install dlib-19.8.1-cp36-cp36m-win_amd64
         
 Opencv
-            
-        o pip install opencv-python in anaconda prompt
+          
+        o pip install opencv-python 
+   in anaconda prompt
         
 Imutils, Scipy, Playsound, scikit-learn, scikit-image
         Use: 
@@ -22,7 +24,7 @@ Imutils, Scipy, Playsound, scikit-learn, scikit-image
         o pip install scikit-learn
         o pip install scikit-image 
         
-        in anaconda prompt.
+   in anaconda prompt.
 
 2.Alcohol senser, Accident detection and notification.
 
