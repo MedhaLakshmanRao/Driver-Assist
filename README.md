@@ -4,18 +4,18 @@ Installation guide
 1.Sleep Detection.
 
     Anaconda( python 3.6 or above)
-Libraries:
-dlib:
+//Libraries:
+A. dlib:
 Use the link https://pypi.org/simple/dlib/ and 
         
         o install dlib-19.8.1-cp36-cp36m-win_amd64
         
-Opencv
+B. Opencv
           
         o pip install opencv-python 
    in anaconda prompt
         
-Imutils, Scipy, Playsound, scikit-learn, scikit-image
+C. Imutils, Scipy, Playsound, scikit-learn, scikit-image
         Use: 
         
         o pip install imutils 
